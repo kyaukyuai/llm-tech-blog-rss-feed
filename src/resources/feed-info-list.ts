@@ -29,6 +29,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['Platinum Data Blog by BrainPad', 'https://blog.brainpad.co.jp/feed'],
   ['LlamaIndex Blog - Medium', 'https://medium.com/feed/llamaindex-blog'],
   ['mah_lab / 西見 公宏 - Note', 'https://note.com/mahlab/rss'],
+  ['npaka - Note', 'https://note.com/npaka/rss'],
   ['LLM - Note', 'https://note.com/hashtag/LLM/rss'],
   ['LangChain - Note', 'https://note.com/hashtag/LangChain/rss'],
   ['character.ai', 'https://blog.character.ai/rss/'],
@@ -44,7 +45,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['株式会社エクスプラザ（公式）', 'https://note.com/explaza_inc/rss'],
   ['LLM Agent - Medium', 'https://medium.com/feed/tag/llm-agent'],
   ['The latest on AI | Sequoia Capital', 'https://www.sequoiacap.com/article/tag/ai/feed'],
-  // ['Microsoft Research', 'https://www.microsoft.com/en-us/research/blog/feed/'],
+  ['Microsoft Research', 'https://www.microsoft.com/en-us/research/blog/feed/'],
   ['The Gradient', 'https://thegradient.pub/rss/'],
   ['WirelessWire News', 'https://wirelesswire.jp/feed/'],
 ]);
